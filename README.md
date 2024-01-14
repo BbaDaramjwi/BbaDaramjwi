@@ -70,6 +70,8 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+ <img src="https://3.bp.blogspot.com/-jIfrpc8um34/U7xS8_K7gaI/AAAAAAAAOAU/RsRSCf2Vd_E/s320/SL_Viewer.png" height="40" alt="LSL logo" />
 </div>
 
 ###

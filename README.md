@@ -22,7 +22,9 @@
 
 ###
 
-<p align="left">"How exactly does all this work?"<br><br>I have always worked with computers and software as a user. Now I want to understand why things are the way they are and what options I have to customize them for myself. In the future, I would like to better understand which programs I install, what critical components they consist of, and whether and how I can work around them. As a gamer, I have been interested in mods for years. Initially, I would like to be able to create tools for myself and others in order to learn.</p>
+<p align="left">"How exactly does all this work?"<br>
+<i>I have always worked with computers and software as a user. Now I want to understand why things are the way they are and what options I have to customize them for myself. In the future, I would like to better understand which programs I install, what critical components they consist of, and whether and how I can work around them. As a gamer, I have been interested in mods for years. Initially, I would like to be able to create tools for myself and others in order to learn. </i>
+</p>
 
 ###
 
@@ -102,6 +104,6 @@
 ###
 
 <h4 align="left">Support:</h4>
-<p><a href="https://www.buymeacoffee.com/bbadaramjwa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="200" alt="bbadaramjwa" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/bbadaramjwa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="bbadaramjwa" /></a></p><br><br>
 
 ###

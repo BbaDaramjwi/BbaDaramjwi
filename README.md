@@ -16,7 +16,7 @@
 <br>
 
 ```
-fuel = ["Cola", "Sweets"]
+fuel = ["Coke", "Sweets"]
 
 while (coding) {
     if (foundBug()) {

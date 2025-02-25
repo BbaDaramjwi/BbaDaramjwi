@@ -31,6 +31,40 @@ while (coding) {
 }
 ```
 
+<h1 align="center"> 🐿️ Languages-Frameworks-Tools 🐿️ </h1>
+<div align="center">
+
+  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Obsidian-Dark.svg"/>
+  <img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png"/>
+  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Wordpress.svg"/>
+ ⠀ 
+  <img width="40" height="40" src="https://skillicons.dev/icons?i=py"  />
+  <img width="40" height="40" src="https://skillicons.dev/icons?i=java"  />
+  <img width="40" height="40" src="https://skillicons.dev/icons?i=js"  /> 
+  <img width="40" height="40" src="https://3.bp.blogspot.com/-jIfrpc8um34/U7xS8_K7gaI/AAAAAAAAOAU/RsRSCf2Vd_E/s320/SL_Viewer.png" />
+  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Dart-Dark.svg"  />
+ ⠀ 
+  <img width="40" height="40" src="https://skillicons.dev/icons?i=html"  />
+  <img width="40" height="40" src="https://skillicons.dev/icons?i=php"  />
+  <img width="40" height="40" src="https://skillicons.dev/icons?i=css" />
+<br>
+ ⠀<img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" />
+  <img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png" />  
+  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" />
+   ⠀ 
+  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"/>
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"  />
+  <img width="40" height="40" src="https://skillicons.dev/icons?i=unreal"/>
+  <img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" />  
+  <img width="40" height="40" src="https://skillicons.dev/icons?i=vscode"   />
+   ⠀ 
+  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flutter-Dark.svg"  />
+  <img width="40" height="40" src="https://skillicons.dev/icons?i=mysql"  />
+  <img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" />
+</div>
+
+<br>
+
 <div align="center">
   <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs?username=BbaDaramjwi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=shades-of-purple&hide_border=true&order=2" />
     
@@ -39,26 +73,5 @@ while (coding) {
   <a href="https://www.buymeacoffee.com/bbadaramjwa"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="bbadaramjwa" /></a>
 </div>
 
-<div align="center">
-  <img width="40" height="40" src="https://skillicons.dev/icons?i=py"  />
-  <img width="40" height="40" src="https://skillicons.dev/icons?i=java"  />
-  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Dart-Dark.svg"  />
-  <img width="40" height="40" src="https://skillicons.dev/icons?i=js"  /> 
-  <img width="40" height="40" src="https://3.bp.blogspot.com/-jIfrpc8um34/U7xS8_K7gaI/AAAAAAAAOAU/RsRSCf2Vd_E/s320/SL_Viewer.png" />
- ⠀ 
-  <img width="40" height="40" src="https://skillicons.dev/icons?i=php"  />
-  <img width="40" height="40" src="https://skillicons.dev/icons?i=html"  />
-  <img width="40" height="40" src="https://skillicons.dev/icons?i=css" />
- ⠀ 
-  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flutter-Dark.svg"  />
-  <img width="40" height="40" src="https://skillicons.dev/icons?i=mysql"  />
-  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" />
- ⠀ 
-  <img width="40" height="40" src="https://skillicons.dev/icons?i=vscode"   />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"  />
-  <img width="40" height="40" src="https://skillicons.dev/icons?i=unreal"/>
-  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"/>
-  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Obsidian-Dark.svg"/>
-  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Wordpress.svg"/>
-</div>
+
 

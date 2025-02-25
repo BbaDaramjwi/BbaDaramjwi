@@ -1,56 +1,39 @@
-<br clear="both">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BbaDaramjwi.BbaDaramjwi&left_color=blueviolet"  />
 
-<img align="left" height="150" src="https://avatars.githubusercontent.com/u/149151213?s=200&v=4"  />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=8a2be2&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hello+World!+👋;+I'm+BbaDaramjwi!;" />
+</h1>
 
-###
-
-<h1 align="center">"Hello World!" 👋</h1>
-
-###
-
-<p align="center">"I'm still a newbie, but hey, I'm turning 'no idea' into 'know-idea' one day at a time!"</p>
-
-###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=BbaDaramjwi.BbaDaramjwi&left_color=blueviolet"  />
-
-###
-
-<br clear="both">
-
-<h3 align="left">🌱 I’m currently learning</h3>
-
-###
-
-<p align="left">"How exactly does all this work?"<br>
-<i>I have always worked with computers and software as a user. Now I want to understand why things are the way they are and what options I have to customize them for myself. In the future, I would like to better understand which programs I install, what critical components they consist of, and whether and how I can work around them. As a gamer, I have been interested in mods for years. Initially, I would like to be able to create tools for myself and others in order to learn. </i>
+<img align="left" height="160" src="https://avatars.githubusercontent.com/u/149151213?s=200&v=4"  />
+<p>
+  <br> Hi, I'm Bba Daramjwi <sub>alias playful squirrel</sub>
+  <br>
+  <br> I have a deep curiosity about why things are the way they are. 
+  <br> This drive has led me to create tools that help automate repetitive tasks, eliminate boring processes, 
+  <br> and minimize error-prone work — not just for me, but for others too.
+  <br>
+  <br> My goal is to find solutions that improve workflows, allowing us to focus on the important aspects of our projects.
 </p>
 
-###
+```
+fuel = ["Cola", "Sweets"]
 
-<p align="center"></p>
-
-###
-
-<h3 align="center">Toolbox</h3>
-
-###
+while (coding) {
+    if (foundBug()) {
+        debug();
+        sip(fuel.random());
+    }
+    
+    commit("Fixed bug, fueled by " + fuel.random());
+    push();
+}
+```
+___
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BbaDaramjwi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=shades-of-purple&hide_border=true&order=2" height="100" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=BbaDaramjwi&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=true&order=1" height="100" alt="stats graph"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="40" alt="nixos logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
@@ -64,7 +47,6 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
 </div>
 
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
@@ -74,7 +56,7 @@
  <img src="https://3.bp.blogspot.com/-jIfrpc8um34/U7xS8_K7gaI/AAAAAAAAOAU/RsRSCf2Vd_E/s320/SL_Viewer.png" height="40" alt="LSL logo" />
 </div>
 
-###
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
@@ -88,24 +70,31 @@
   <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  />
 </div>
 
-###
-
 <p align="center">life experience in the areas of customer service, coaching, ...</p>
 
-###
+## 🐿️ Projects 
 
-<p align="center"></p>
+<details>
+  <summary>📂 HalfBakedApp</summary>
+  Description: not done, but definitely in the oven
+  <br> Feature 1: Description
+  <br> Feature 2: Description
+  <br> Feature 3: Description
+  <br> 
+  <br> 🛠️ **Technologies Used:** ..., ...,
+  <br> 🖨️ **Repository:** [**View Code**](https://github.com/your-username/project2)
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BbaDaramjwi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=shades-of-purple&hide_border=true&order=2" height="100" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=BbaDaramjwi&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=true&order=1" height="100" alt="stats graph"  />
-</div>
+  
+</details>
 
-###
 
-<h4 align="left">Support:</h4>
+
+## ✨ Articles & Blogs
+
+- [**... ... ...**]([https://yourblog.com/fullstack-app](https://hmpg.net/))  
+
+
+---
+
 <p><a href="https://www.buymeacoffee.com/bbadaramjwa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="bbadaramjwa" /></a></p><br><br>
-
-###

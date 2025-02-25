@@ -10,9 +10,7 @@
   <br>
   <br> I have a deep curiosity about why things are the way they are. 
   <br> This drive has led me to create tools that help automate repetitive tasks, eliminate boring processes, 
-  <br> and minimize error-prone work — not just for me, but for others too.
-  <br>
-  <br> My goal is to find solutions that improve workflows, allowing us to focus on the important aspects of our projects.
+  <br> and minimize error-prone work — not just for me, but for others too. My goal is to find solutions that improve workflows, allowing us to focus on the important aspects of our projects.
 </p>
 
 <br>

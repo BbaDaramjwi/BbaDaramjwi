@@ -65,13 +65,8 @@ while (coding) {
 
 <br>
 
-<div align="center">
+<div align="center">    
   <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs?username=BbaDaramjwi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=shades-of-purple&hide_border=true&order=2" />
+  <img height="100" src="https://github-readme-stats.vercel.app/api?username=BbaDaramjwi&hide_title=true&show_icons=false&include_all_commits=true&count_private=true&theme=shades-of-purple&rank_icon=github&locale=en&hide_border=true" />
     
-  <img height="100" src="https://github-readme-stats.vercel.app/api?username=BbaDaramjwi&hide_title=true&show_icons=false&include_all_commits=true&count_private=true&theme=shades-of-purple&rank_icon=github&locale=en&hide_border=true&" />
-    
-  <a href="https://www.buymeacoffee.com/bbadaramjwa"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="bbadaramjwa" /></a>
 </div>
-
-
-

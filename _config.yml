@@ -1,2 +1,4 @@
 title: BbaDaramjwi
-theme: jekyll-theme-minimal
+
+theme: pages-themes/merlot@v0.2.0
+#theme: jekyll-theme-minimal

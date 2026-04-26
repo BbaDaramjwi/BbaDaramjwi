@@ -27,43 +27,28 @@ while (coding) {
     commit("Fixed bug, fueled by " + fuel.random());
     push();
 }
-```
 
-<h1 align="center"> 🐿️ Languages-Frameworks-Tools 🐿️ </h1>
+```
+___
 <div align="center">
 
-  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Obsidian-Dark.svg"/>
-  <img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png"/>
-  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Wordpress.svg"/>
- ⠀ 
-  <img width="40" height="40" src="https://skillicons.dev/icons?i=py"  />
-  <img width="40" height="40" src="https://skillicons.dev/icons?i=java"  />
-  <img width="40" height="40" src="https://skillicons.dev/icons?i=js"  /> 
-  <img width="40" height="40" src="https://3.bp.blogspot.com/-jIfrpc8um34/U7xS8_K7gaI/AAAAAAAAOAU/RsRSCf2Vd_E/s320/SL_Viewer.png" />
-  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Dart-Dark.svg"  />
- ⠀ 
-  <img width="40" height="40" src="https://skillicons.dev/icons?i=html"  />
-  <img width="40" height="40" src="https://skillicons.dev/icons?i=php"  />
-  <img width="40" height="40" src="https://skillicons.dev/icons?i=css" />
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![Dart Badge](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=flat)
+![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=flat)
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
 <br>
- ⠀<img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" />
-  <img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png" />  
-  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" />
-   ⠀ 
-  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"/>
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"  />
-  <img width="40" height="40" src="https://skillicons.dev/icons?i=unreal"/>
-  <img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" />  
-  <img width="40" height="40" src="https://skillicons.dev/icons?i=vscode"   />
-   ⠀ 
-  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flutter-Dark.svg"  />
-  <img width="40" height="40" src="https://skillicons.dev/icons?i=mysql"  />
-  <img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" />
+![Obsidian Badge](https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=fff&style=flat)
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
+![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
+![GIMP Badge](https://img.shields.io/badge/GIMP-8C8073?logo=gimp&logoColor=fff&style=flat)
+![Krita Badge](https://img.shields.io/badge/Krita-3BABFF?logo=krita&logoColor=fff&style=flat)
+
 </div>
 
 <br>
 
-<div align="center">    
-  <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs?username=BbaDaramjwi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=shades-of-purple&hide_border=true&order=2" />
-  <img height="100" src="https://github-readme-stats.vercel.app/api?username=BbaDaramjwi&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=shades-of-purple&rank_icon=github&locale=en&hide_border=true" />
-</div>
